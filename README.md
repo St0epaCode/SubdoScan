@@ -1,2 +1,2 @@
-# SubdoScan
-Subdomain Scanner Using Hacker Target API
+# Tembak Telkomny3t
+usage : php tembak.php
